@@ -1,0 +1,10 @@
+{
+    "name": "creoLIFE/Simple_Html_Dom",
+    "description": "Simple Html Dom",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/creoLIFE/Simple_Html_Dom.git"
+        }
+    ]
+}
